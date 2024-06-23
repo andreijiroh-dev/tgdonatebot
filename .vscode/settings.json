@@ -1,5 +1,15 @@
 {
     "conventionalCommits.scopes": [
-        "global"
-    ]
+        "global",
+        "lib",
+        "readme",
+        "bot"
+    ],
+    "gitlens.remotes": [
+        {
+            "domain": "mau.dev",
+            "type": "GitLab"
+        }
+    ],
+    "git.alwaysSignOff": true
 }
